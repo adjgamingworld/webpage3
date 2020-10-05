@@ -8,6 +8,7 @@
     height: 100vh;
     background-color: rgb(85, 169, 172);
     overflow-x: hidden;
+    overflow:hidden;
 }
 
 
